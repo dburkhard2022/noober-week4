@@ -20,7 +20,7 @@ window.addEventListener('DOMContentLoaded', async function() {
       borderColor = `purple`
     } else if (rideData.numberOfPassengers > 3) {
       rideType = `Noober XL`
-      borderColor = `gray`
+      borderColor = `blue`
     } else {
       rideType = `Noober X`
       borderColor = `gray`
